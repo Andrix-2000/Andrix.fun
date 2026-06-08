@@ -1,2 +1,0 @@
-# Andrix.fun
-Site
